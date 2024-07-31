@@ -8,6 +8,7 @@
 ## 🌱 I’m currently learning:
 - Advanced Full-Stack Development
 - PHP and JavaScript Frameworks
+- MERN Full-Stack Development
 
 ## 💞️ I’m looking to collaborate on:
 - Open Source Projects
